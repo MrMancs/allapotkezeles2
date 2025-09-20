@@ -66,3 +66,24 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+div {
+  margin: 0 auto;
+  text-align: center;
+}
+
+input{
+  padding: 5px;
+  border-radius: 10px;
+  border: 1px white solid;
+  background-color: #242424;
+}
+
+label, input {
+  margin: 5px;
+}
+
+#btn_submit:hover{
+  background-color: black;
+  cursor: pointer;
+}
